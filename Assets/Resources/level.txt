@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+	<tiles>
+		<tile type="0">
+			<enemies>
+				<enemy x="0" z="18" type="EnemyShip" />
+			</enemies>
+		</tile>
+		<tile type="1">
+			<enemies>
+				<enemy x="2" z="0" type="EnemyShip" />
+				<enemy x="0" z="10" type="EnemyShip2" />
+				<enemy x="-10" z="-4" type="EnemyShip2" />
+				<enemy x="-8" z="2" type="Asteroid" />
+				<enemy x="15" z="-5" type="Asteroid" />
+				<enemy x="6" z="-10" type="Asteroid" />
+				<enemy x="-4" z="-15" type="Asteroid" />
+				<enemy x="0" z="16" type="Asteroid" />
+				<enemy x="-2" z="0" type="Asteroid" />
+				<enemy x="6" z="5" type="Asteroid" />
+				<enemy x="12" z="10" type="Asteroid" />
+			</enemies>
+		</tile>
+		<tile type="2">
+			<enemies>
+				<enemy x="2" z="0" type="EnemyShip" />
+				<enemy x="0" z="2" type="EnemyShip" />
+				<enemy x="15" z="-3" type="EnemyShip" />
+				<enemy x="-15" z="5" type="EnemyShip" />
+				<enemy x="6" z="15" type="EnemyShip" />
+				<enemy x="-10" z="-10" type="EnemyShip2" />
+				<enemy x="10" z="-5" type="EnemyShip2" />
+				<enemy x="0" z="-7" type="EnemyShip2" />
+				<enemy x="-2" z="0" type="EnemyShip2" />
+				<enemy x="-6" z="-5" type="EnemyShip2" />
+				<enemy x="12" z="10" type="EnemyShip2" />
+			</enemies>
+		</tile>
+		<tile type="3">
+			<enemies>
+				<enemy x="-10" z="5" type="Asteroid" />
+				<enemy x="15" z="-5" type="Asteroid" />
+				<enemy x="6" z="-15" type="Asteroid" />
+				<enemy x="0" z="10" type="Asteroid" />
+				<enemy x="-2" z="0" type="Asteroid" />
+				<enemy x="0" z="2" type="Asteroid" />
+				<enemy x="-4" z="20" type="Asteroid" />
+				<enemy x="0" z="-5" type="Asteroid" />
+				<enemy x="2" z="0" type="Asteroid" />
+				<enemy x="6" z="5" type="Asteroid" />
+				<enemy x="-12" z="-3" type="Asteroid" />
+				<enemy x="-10" z="5" type="Asteroid" />
+				<enemy x="15" z="-5" type="Asteroid" />
+				<enemy x="6" z="15" type="Asteroid" />
+				<enemy x="0" z="-12" type="Asteroid" />
+				<enemy x="-2" z="0" type="Asteroid" />
+				<enemy x="0" z="2" type="Asteroid" />
+				<enemy x="-4" z="20" type="Asteroid" />
+				<enemy x="0" z="-7" type="Asteroid" />
+				<enemy x="2" z="0" type="Asteroid" />
+				<enemy x="6" z="-5" type="Asteroid" />
+				<enemy x="-12" z="-10" type="Asteroid" />
+			</enemies>
+		</tile>
+		<tile type="4">
+			<enemies>
+				<enemy x="0" z="5" type="EnemyShip" />
+				<enemy x="6" z="0" type="EnemyShip" />
+				<enemy x="-10" z="-15" type="EnemyShip" />
+				<enemy x="15" z="5" type="EnemyShip" />
+				<enemy x="0" z="10" type="EnemyShip2" />
+				<enemy x="-5" z="15" type="EnemyShip2" />
+				<enemy x="4" z="9" type="EnemyShip2" />
+				<enemy x="10" z="5" type="EnemyShip2" />
+				<enemy x="-6" z="-5" type="Asteroid" />
+				<enemy x="6" z="-5" type="Asteroid" />
+				<enemy x="0" z="20" type="Asteroid" />
+			</enemies>
+		</tile>
+	</tiles>
+</doc>
